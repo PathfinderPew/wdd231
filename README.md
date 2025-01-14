@@ -18,5 +18,17 @@ Use this as a starting point to complete the WDD 231 personal activity. We will 
 - `npm run build` to build final files when you are ready to turn in.
 
 
-Netlify URL
-https://friendly-entremet-316451.netlify.app/
+
+
+# WDD231 Course Setup Assignment
+
+## Student: Brandon Pew
+### Course: WDD231 - Web Frontend Development
+
+Below is the link to the deployed site:
+
+**Deployed Site:** https://friendly-entremet-316451.netlify.app/
+
+### Notes:
+- The repository is set up to auto-deploy from the `main` branch.
+- Changes pushed to the `main` branch will trigger a Netlify redeployment.
